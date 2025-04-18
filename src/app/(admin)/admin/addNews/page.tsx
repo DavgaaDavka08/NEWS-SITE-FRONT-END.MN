@@ -20,7 +20,7 @@ export default function Catagory() {
                 </div>
                 <div className="w-[92%]  flex p-6  flex-col  items-start gap-4 border border-[#E4E4E7] rounded-sm  bg-white">
                     <h4 className="text-[#09090B] font-inter text-[20px] font-bold leading-7 tracking-[-0.5px] ">
-                        Dishesh Category
+                        Dishesh Category йши
                     </h4>
                     <div>
                         <DialogDemoCategory />

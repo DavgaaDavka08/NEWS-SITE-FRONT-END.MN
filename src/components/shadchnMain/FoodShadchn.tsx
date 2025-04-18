@@ -95,7 +95,6 @@ export const FoodShadchn = () => {
         const data = await res.json();
         console.log("Created:", data);
     };
-
     const onSubmit = (values: z.infer<typeof formSchema>) => {
         createFood(values);
     };
